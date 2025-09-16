@@ -1,16 +1,34 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎉 Quize App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **simple and interactive Quiz App** built with **React** by **Vijay Patil**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+- ✅ Multiple choice questions  
+- ✅ Score calculation after each quiz  
+- ✅ Highlights correct and wrong answers  
+- ✅ Reset quiz functionality to play again  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Quize-App
->>>>>>> 16778466078a497a0a7d3b8b5f9ed96457784d21
+## 🛠 Tech Stack
+- **React**  
+- **HTML, CSS, JavaScript**  
+
+---
+
+## 🚀 How to Run Locally
+```bash
+# Step 1: Clone the repository and move into the project folder
+git clone https://github.com/vijaypatil2003/Quize-App-by-React.git
+cd Quize-App-by-React
+
+# Step 2: Install dependencies
+npm install
+
+# Step 3: Start the app
+npm start
+
+# Step 4: Open in browser
+# Open http://localhost:3000
