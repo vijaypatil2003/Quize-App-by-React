@@ -1,25 +1,25 @@
-# 🎉 Quize App
+<h1 style="color: #ff5733; font-size: 36px;">🎉 Quize App</h1>
 
-A **simple and interactive Quiz App** built with **React** by **Vijay Patil**.
+<p style="color: #1E90FF; font-size: 20px;">
+A <strong>simple and interactive Quiz App</strong> built with <strong>React</strong> by <strong>Vijay Patil</strong>.
+</p>
 
----
+<h2 style="color: #32CD32;">🌟 Features</h2>
+<ul>
+  <li>✅ Multiple choice questions</li>
+  <li>✅ Score calculation after each quiz</li>
+  <li>✅ Highlights correct and wrong answers</li>
+  <li>✅ Reset quiz functionality to play again</li>
+</ul>
 
-## 🌟 Features
-- ✅ Multiple choice questions  
-- ✅ Score calculation after each quiz  
-- ✅ Highlights correct and wrong answers  
-- ✅ Reset quiz functionality to play again  
+<h2 style="color: #FF8C00;">🛠 Tech Stack</h2>
+<ul>
+  <li>React</li>
+  <li>HTML, CSS, JavaScript</li>
+</ul>
 
----
-
-## 🛠 Tech Stack
-- **React**  
-- **HTML, CSS, JavaScript**  
-
----
-
-## 🚀 How to Run Locally
-```bash
+<h2 style="color: #800080;">🚀 How to Run Locally</h2>
+<pre style="background-color: #f0f0f0; padding: 10px;">
 # Step 1: Clone the repository and move into the project folder
 git clone https://github.com/vijaypatil2003/Quize-App-by-React.git
 cd Quize-App-by-React
@@ -32,3 +32,4 @@ npm start
 
 # Step 4: Open in browser
 # Open http://localhost:3000
+</pre>
