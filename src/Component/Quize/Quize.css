@@ -1,0 +1,77 @@
+.container{
+    width: 640px;
+    margin: auto;
+    margin-top: 10px;
+    background: white;
+    color: #262626;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 40px 50px;
+}
+
+.container hr{
+    height: 2px;
+    border: none;
+    background: #707070;
+}
+
+.container h2{
+    font-size: 27px;
+    font-weight: 500;
+}
+
+.container ul li{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    padding-left: 15px;
+    border: 1px solid #686868;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    cursor:pointer;
+}
+
+.container .button-container {
+    display: flex;
+    gap: 25px;           /* buttons ke beech gap */
+    justify-content: center;  /* center align */
+}
+
+.container .button-container button {
+    width: 250px;
+    height: 65px;
+    background: purple;
+    color: wheat;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 0;   /* flex gap ke liye margin auto hatao */
+}
+
+.container .index {
+    margin : auto;
+    font-size: 18px;
+    color:brown;
+    font-size: 20px;
+}
+
+/* .right{
+    background: rgb(188, 228, 188);
+    border-color: rgb(6, 90, 0);
+} */
+
+.container .right {
+    background: rgb(217, 245, 217);
+    border-color: rgb(6, 90, 0);
+}
+
+
+.container .wrong{
+    background: rgb(250, 233, 233);
+    border-color: rgb(141, 0, 0);
+}
+
